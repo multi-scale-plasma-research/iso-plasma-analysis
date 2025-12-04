@@ -1,0 +1,15 @@
+﻿name: iso-plasma
+channels:
+  - conda-forge
+dependencies:
+  - python=3.10
+  - numpy
+  - pandas
+  - scipy
+  - matplotlib
+  - jupyter
+  - pip
+  - pip:
+    - cupy-cuda11x
+    - cdflib
+    - numba
