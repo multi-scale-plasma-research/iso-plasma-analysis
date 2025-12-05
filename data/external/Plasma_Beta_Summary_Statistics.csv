@@ -1,0 +1,4 @@
+Object,Period,Solar_Phase,Sample_Size,Median_Beta,Mean_Beta,Std_Beta,Low_Beta_Percent,Classification
+1I/Oumuamua,Sep 2017,MODERATE,50000,0.795,35.711,116.232,61.3,ANOMALOUS
+2I/Borisov,Dec 2019,MINIMUM,3059,1.293,2.620,2.620,41.2,NORMAL
+3I/ATLAS,Oct 2025,MAXIMUM,5800,0.458,0.617,0.617,85.0,ANOMALOUS

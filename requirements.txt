@@ -1,0 +1,11 @@
+
+### `iso-plasma-analysis/requirements.txt` (minimal draft)
+
+Adjust versions if you know exact ones, but roughly:
+
+```text
+numpy
+pandas
+scipy
+cdflib
+pyspedas
